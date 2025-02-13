@@ -1,5 +1,6 @@
-# 💫 About Me:
-sou estudante de Engenharia de software. Estou a procura de Estagio
+# 💫 PRAZER, EU ME CHAMO MATHEUS!
+Olá, meu nome é Matheus Souza e sou estudante de Engenharia de Software. Sempre fui fascinado pelo mundo da tecnologia, desde pequeno, e esse interesse só cresceu com o avanço da Inteligência Artificial e das novas inovações digitais.
+Estou sempre buscando aprender sobre as novas tecnologias e me aprofundar em conceitos que possam impactar o futuro da computação. Minha jornada acadêmica e profissional tem como foco explorar e entender como a tecnologia pode transformar o mundo ao nosso redor. 🚀
 
 
 # 💻 Tech Stack:
