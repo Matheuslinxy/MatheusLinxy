@@ -2,9 +2,11 @@
 
 <div>
  <a href="https://github.com/matheuslinxy">
- <img height="180em" src ="https://github=readme=stats.vercel.app/api?username=matheuslinxy&show_incons=true&theme-dracula&include_all_commits=true&count_private=true" L>
- <img height="180em" src ="https://github=readme=stats.vercel.app/api/top=langs/?username=matheuslinxy&layout=compact&langs_count=16&theme=dracula" L>
-</div>
+   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=matheuslinxy&show_incons=true&theme-dracula&include_all_commits=true&count_private=true" >
+   <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslinxy&layout=compact&langs_count=16&theme=dracula" >
+ </a>
+ </div>
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
