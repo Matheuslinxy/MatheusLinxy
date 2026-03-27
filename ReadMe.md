@@ -1,5 +1,5 @@
 # 💫 PRAZER, EU ME CHAMO MATHEUS!
-![Bandeira]
+
 
 <div>
  <a href="https://github.com/matheuslinxy">
