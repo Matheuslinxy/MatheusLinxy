@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 Estatísticas GitHub
+*/##📊 Estatísticas GitHub*/
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheuslinxy&theme=dracula" width="100%"/>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🚀 Projetos em destaque
+*/## 🚀 Projetos em destaque/*
 
 ### 🎬 [Site de Cinema](https://matheuslinxy.github.io/cinemaP/)
 > Site temático de cinema responsivo com HTML, CSS, JavaScript e Bootstrap. Foco em UI moderna e experiência do usuário.
