@@ -4,6 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end+%26+Back-end;Apaixonado+por+QA+e+Testes;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" height="120"/>
+</div>
+*******************
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end+%26+Back-end;Apaixonado+por+QA+e+Testes;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+
 ---
 
 ## 👨‍💻 Sobre mim
